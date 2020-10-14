@@ -1,2 +1,2 @@
 # Flappy Bird Game:
-<img src="gallery/sprites/flappy.png">
+<img src="FlappyBirdGame/gallery/sprites/flappy.png">
