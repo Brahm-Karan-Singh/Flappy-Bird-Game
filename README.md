@@ -1,1 +1,1 @@
-# <img src="gallery/sprites/flappy.png">
+<img src="gallery/sprites/flappy.png">
